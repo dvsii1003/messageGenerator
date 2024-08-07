@@ -1,7 +1,7 @@
 # Message Generator Project
 
 ## This is a Codecademy practice/portfolio Project
-##designed to incorporate cli, javascript and git skills
+## designed to incorporate cli, javascript and git skills
 
 For this project, you will build a message generator program. 
 Every time a user runs a program, they should get a new, randomized 
