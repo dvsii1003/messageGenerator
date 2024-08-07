@@ -1,6 +1,6 @@
-#Message Generator Project
+# Message Generator Project
 
-##This is a Codecademy practice/portfolio Project
+## This is a Codecademy practice/portfolio Project
 ##designed to incorporate cli, javascript and git skills
 
 For this project, you will build a message generator program. 
