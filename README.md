@@ -11,13 +11,13 @@ To make your program truly random, the message that it outputs should be
 made up of at least three different pieces of data. Take what you know of 
 JavaScript syntax so far to build the program and customize it to your liking.
 
-####Project Objectives:
-+Build a message generator program using JavaScript
-+Use Git version control
-+Use command line
-+Develop locally on your computer
+#### Project Objectives:
++ Build a message generator program using JavaScript
++ Use Git version control
++ Use command line
++ Develop locally on your computer
 
-###Prerequisites:
-+JavaScript
-+Git and GitHub
-+Command line
+### Prerequisites:
++ JavaScript
++ Git and GitHub
++ Command line
