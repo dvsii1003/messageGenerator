@@ -1,7 +1,7 @@
-#Message Generator Project
+# Message Generator Project
 
-##This is a Codecademy practice/portfolio Project
-##designed to incorporate cli, javascript and git skills
+## This is a Codecademy practice/portfolio Project
+## designed to incorporate cli, javascript and git skills
 
 For this project, you will build a message generator program. 
 Every time a user runs a program, they should get a new, randomized 
@@ -11,16 +11,16 @@ To make your program truly random, the message that it outputs should be
 made up of at least three different pieces of data. Take what you know of 
 JavaScript syntax so far to build the program and customize it to your liking.
 
-####Project Objectives:
-+Build a message generator program using JavaScript
-+Use Git version control
-+Use command line
-+Develop locally on your computer
+#### Project Objectives:
++ Build a message generator program using JavaScript
++ Use Git version control
++ Use command line
++ Develop locally on your computer
 
-###Prerequisites:
-+JavaScript
-+Git and GitHub
-+Command line
+#### Prerequisites:
++ JavaScript
++ Git and GitHub
++ Command line
 
 I decided to develop a random nonsensical joke constructor using random words to 
 conjugate a question and answer. It makes no sense, but fulfills the requirements
