@@ -21,3 +21,9 @@ JavaScript syntax so far to build the program and customize it to your liking.
 +JavaScript
 +Git and GitHub
 +Command line
+
+I decided to develop a random nonsensical joke constructor using random words to 
+conjugate a question and answer. It makes no sense, but fulfills the requirements
+of the project. Technically, I havent learned how to include js in web pages, but that
+is how i probably would design it so it is prettier and also take input from user, play 
+a laugh track, etc. 
